@@ -1,5 +1,3 @@
-This is my code repository: https://github.com/Ai-TechNov/profile-project.git
-
 
  ## Step-by-Step documentation to Deploy a Java Web Application Using Tomcat 
 
