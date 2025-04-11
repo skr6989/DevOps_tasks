@@ -1,4 +1,3 @@
-This is my code repository: https://github.com/akracad/Gold_Site.git
 
 ## Deploying a Node.js Website on a Linux Server
 
