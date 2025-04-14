@@ -131,35 +131,35 @@ Log in with your token or credentials, and you should see the scan results for `
 
 
 
-![Preview](./images/s2.png)
+![Image](https://github.com/user-attachments/assets/e31cf8cf-ac28-4091-8986-a75b8f0018ec)
 
 
 
-![Preview](./images/s3.png)
+![Image](https://github.com/user-attachments/assets/f12cc902-a4aa-4963-a132-79aa0425938f)
 
 
 
-![Preview](./images/s4.png)
+![Image](https://github.com/user-attachments/assets/955c8d1c-1a60-48ff-a27e-b7051d45cb4a)
 
 
 
-![Preview](./images/s5.png)
+![Image](https://github.com/user-attachments/assets/a139ca49-3bcd-49e3-97eb-e7b019e8e123)
 
 
 
-![Preview](./images/s6.png)
+![Image](https://github.com/user-attachments/assets/551a40e7-ce09-41c2-a84d-b9fa78f8ccd1)
 
 
 
-![Preview](./images/s7.png)
+![Image](https://github.com/user-attachments/assets/2b5627f9-9663-4367-9d94-dc3d9d552e6c)
 
 
 
-![Preview](./images/s8.png)
+![Image](https://github.com/user-attachments/assets/21ca68ae-efa5-4041-ad98-613ad7ef5366)
 
 
 
-![Preview](./images/s9.png)
+![Image](https://github.com/user-attachments/assets/1be553c3-b6bc-4691-a1ce-d6a9e413665a)
 
 
 ## Done!
