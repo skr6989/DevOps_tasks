@@ -127,9 +127,9 @@ http://54.88.153.215:9000
 Log in with your token or credentials, and you should see the scan results for `test1`.
 
 
-![Preview](./images/s1.png)
+![Image](https://github.com/user-attachments/assets/edbd2a3f-305f-4732-9759-2b49208def35)
 
-![Preview](./images/j1.png)
+
 
 ![Preview](./images/s2.png)
 
