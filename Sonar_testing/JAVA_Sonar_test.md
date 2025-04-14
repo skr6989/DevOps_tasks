@@ -158,35 +158,35 @@ Log in and view the project’s code quality dashboard.
 
 
 
-![Preview](./images/j2.png)
+![Preview](./Images/j2.png)
 
 
 
-![Preview](./images/j3.png)
+![Preview](./Images/j3.png)
 
 
 
-![Preview](./images/j4.png)
+![Preview](./Images/j4.png)
 
 
 
-![Preview](./images/j5.png)
+![Preview](./Images/j5.png)
 
 
 
-![Preview](./images/j6.png)
+![Preview](./Images/j6.png)
 
 
 
-![Preview](./images/j7.png)
+![Preview](./Images/j7.png)
 
 
 
-![Preview](./images/j8.png)
+![Preview](./Images/j8.png)
 
 
 
-![Preview](./images/j9.png)
+![Preview](./Images/j9.png)
 
 ---
 
