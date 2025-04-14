@@ -154,7 +154,7 @@ Log in and view the project’s code quality dashboard.
 
 ---
 
-![Preview](./images/j1.png)
+![Preview](./Images/j1.png)
 
 
 
