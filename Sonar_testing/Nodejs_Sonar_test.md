@@ -129,7 +129,7 @@ Log in with your token or credentials, and you should see the scan results for `
 
 ![Preview](./images/s1.png)
 
-
+![Preview](./images/j1.png)
 
 ![Preview](./images/s2.png)
 
