@@ -96,3 +96,12 @@ If you don’t have direct access as root, you may need to use `sudo` to log int
 
 ## Conclusion
 These steps will drive you in installing and starting MySQL, as well as logging into the MySQL server to interact with databases. If you follow the commands correctly, you should be able to have MySQL.
+
+
+![Preview](./db1.png)
+
+
+![Preview](./db2.png)
+
+
+### ![Preview](./db3.png)
